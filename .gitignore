@@ -1,0 +1,32 @@
+# Arquivos de IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos compilados
+*.class
+*.exe
+*.o
+*.out
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de ambiente
+.env
+.env.local
+
+# Arquivos de dependências
+node_modules/
+venv/
+__pycache__/
+*.pyc 
