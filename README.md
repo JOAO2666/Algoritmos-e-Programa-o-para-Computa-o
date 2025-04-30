@@ -23,7 +23,7 @@ Algoritmos-e-Programa-o-para-Computa-o/
 ## Tecnologias Utilizadas
 Linguagem de Programação: Linguagem C
 IDEs/Editores: Devc++
-Ferramentas: Deepseek
+Ferramentas: VSCODE
 
 ## Conteúdo Programático
 1. Introdução à Programação
