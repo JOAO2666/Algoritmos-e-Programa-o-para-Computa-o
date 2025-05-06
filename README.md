@@ -42,6 +42,7 @@ Estrutura. Pseudocódigo, Palavrasreservadas, Estrutura, Fluxograma, Simbologia 
 13. Instrução condicional (se entao senao)
 14. Modularização,Conceito,Procedimento,Caracte rização,Estrutura.
 15. Modularização,Conceito,Procedimento,Caracte rização,Estrutura,
+16. Struct Função de Vetores 
 
 ## Contribuições
 Este repositório é mantido por João Emanuel Almeida Ramos como parte das atividades acadêmicas da disciplina de Algoritmos e Programação para Computação.
