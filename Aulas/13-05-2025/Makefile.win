@@ -1,15 +1,15 @@
-# Project: programa de 13052025
+# Project: Project1asdasd
 # Makefile created by Dev-C++ 5.11
 
 CPP      = g++.exe
 CC       = gcc.exe
 WINDRES  = windres.exe
-OBJ      = "13-05-2025/ARQUIVS\ FOPEN.o"
-LINKOBJ  = "13-05-2025/ARQUIVS FOPEN.o"
+OBJ      = "ponto\ fwrite.o"
+LINKOBJ  = "ponto fwrite.o"
 LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
 INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
 CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
-BIN      = "programa de 13052025.exe"
+BIN      = Project1asdasd.exe
 CXXFLAGS = $(CXXINCS) 
 CFLAGS   = $(INCS) 
 RM       = rm.exe -f
@@ -24,5 +24,5 @@ clean: clean-custom
 $(BIN): $(OBJ)
 	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
 
-"13-05-2025/ARQUIVS\ FOPEN.o": 13-05-2025/ARQUIVS\ FOPEN.c
-	$(CC) -c "13-05-2025/ARQUIVS FOPEN.c" -o "13-05-2025/ARQUIVS FOPEN.o" $(CFLAGS)
+"ponto\ fwrite.o": ponto\ fwrite.c
+	$(CC) -c "ponto fwrite.c" -o "ponto fwrite.o" $(CFLAGS)
