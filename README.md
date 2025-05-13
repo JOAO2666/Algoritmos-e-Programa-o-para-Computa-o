@@ -44,6 +44,7 @@ Estrutura. Pseudocódigo, Palavrasreservadas, Estrutura, Fluxograma, Simbologia 
 15. Modularização,Conceito,Procedimento,Caracte rização,Estrutura,
 16. Struct Função de Vetores
 17. Ponteiros básicos e avançados
+18. Sobre Arquivos
 
 ## Contribuições
 Este repositório é mantido por João Emanuel Almeida Ramos como parte das atividades acadêmicas da disciplina de Algoritmos e Programação para Computação.
