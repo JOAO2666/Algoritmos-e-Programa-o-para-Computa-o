@@ -11,7 +11,7 @@ Repositório dedicado à disciplina de Algoritmos e Programação para Computaç
 ##  Estrutura do Repositório
 ```
 Algoritmos-e-Programa-o-para-Computa-o/
-├── Aulas/                  # Material das aulas
+├── Aulas/                 # Material das aulas
 │   ├── Aula1/             # Conteúdo da primeira aula
 │   ├── Aula2/             # Conteúdo da segunda aula
 │   └── ...                # Demais aulas
@@ -45,6 +45,7 @@ Estrutura. Pseudocódigo, Palavrasreservadas, Estrutura, Fluxograma, Simbologia 
 16. Struct Função de Vetores
 17. Ponteiros básicos e avançados
 18. Sobre Arquivos
+19. FWRITE,FGETS,FCANF,FREAD,FPRINTF,FOPEN.
 
 ## Contribuições
 Este repositório é mantido por João Emanuel Almeida Ramos como parte das atividades acadêmicas da disciplina de Algoritmos e Programação para Computação.
