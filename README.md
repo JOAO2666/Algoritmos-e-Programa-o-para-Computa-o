@@ -47,6 +47,7 @@ Estrutura. Pseudocódigo, Palavrasreservadas, Estrutura, Fluxograma, Simbologia 
 18. Sobre Arquivos
 19. FWRITE,FGETS,FCANF,FREAD,FPRINTF,FOPEN.
 20. Array, recursividade.
+21. ordenação bogo sort.
 
 ## Contribuições
 Este repositório é mantido por João Emanuel Almeida Ramos como parte das atividades acadêmicas da disciplina de Algoritmos e Programação para Computação.
