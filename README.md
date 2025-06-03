@@ -46,6 +46,7 @@ Estrutura. Pseudocódigo, Palavrasreservadas, Estrutura, Fluxograma, Simbologia 
 17. Ponteiros básicos e avançados
 18. Sobre Arquivos
 19. FWRITE,FGETS,FCANF,FREAD,FPRINTF,FOPEN.
+20. Array, recursividade.
 
 ## Contribuições
 Este repositório é mantido por João Emanuel Almeida Ramos como parte das atividades acadêmicas da disciplina de Algoritmos e Programação para Computação.
